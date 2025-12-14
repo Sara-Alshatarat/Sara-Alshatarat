@@ -1,5 +1,5 @@
 ## Hi there^^
-Fourth-year Physics student interested in computational physics and numerical simulations.  
+I'm Sara and I'm a fourth-year Physics student interested in computational physics and numerical simulations.  
 Focused on nonlinear waves, particularly solitons.  
 Beginner in quantum computing and quantum circuits.  
 Experience with Fortran and Mathematica.
