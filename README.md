@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there^^
+Fourth-year Physics student interested in computational physics and numerical simulations.  
+Focused on nonlinear waves, particularly solitons.  
+Beginner in quantum computing and quantum circuits.  
+Experience with Fortran and Mathematica.
 <!--
 **Sara-Alshatarat/Sara-Alshatarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
